@@ -1,3 +1,1 @@
-https://txclmm.me/controller/momo/api.php?act=getToken&type=9
-https://txclmm.me/controller/momo/api.php?act=getHistories&type=9
-https://txclmm.me/controller/momo/api.php?act=getHistoriesFull&type=9
+
